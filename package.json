@@ -1,11 +1,11 @@
 {
-  "name": "vue-calc",
+  "name": "vuex-storagecache",
   "description": "",
-  "version": "0.1.5",
+  "version": "0.0.1",
   "author": "+v <ljw@live.jp>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chiaweilee/vue-calc.git"
+    "url": "https://github.com/chiaweilee/vuex-storagecache.git"
   },
   "main": "./lib/index.js",
   "scripts": {
